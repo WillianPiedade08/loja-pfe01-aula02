@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "produto": "Boné",
+        "descricao": "Boné Azul",
+        "preco": 100.0,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_713981-MLB70453780216_072023-O.webp"
+    },
+    {
+        "id": 2,
+        "produto": "Camiseta",
+        "descricao": "Camiseta Azul",
+        "preco": 110.0,
+        "imagem": "https://procopioshop.fbitsstatic.net/img/p/camiseta-nike-dri-fit-academy-masculino-91557/313431.jpg?w=420&h=420&v=no-change&qs=ignore"
+    },
+    {
+        "id": 3,
+        "produto": "Shorts",
+        "descricao": "Shorts Azul",
+        "preco": 90.0,
+        "imagem": "https://m.media-amazon.com/images/I/91SAuR4AdwL.jpg"
+    },
+    {
+        "id": 4,
+        "produto": "Chinelo",
+        "descricao": "Chinelo preto",
+        "preco": 150.0,
+        "imagem": "https://imgcentauro-a.akamaihd.net/1200x1200/95736231A10.jpg"
+    },
+    {
+        "id": 5,
+        "produto": "Boné",
+        "descricao": "Boné Preto",
+        "preco": 100.0,
+        "imagem": "https://cdn.awsli.com.br/2500x2500/1058/1058679/produto/78874523/57e0e21257.jpg"
+    },
+    {
+        "id": 6,
+        "produto": "Camiseta",
+        "descricao": "Camiseta Preta",
+        "preco": 110.0,
+        "imagem": "https://cdn.awsli.com.br/2500x2500/1714/1714539/produto/263393140/whatsapp-image-2024-04-13-at-13-33-09-zpfvjypa50.jpeg"
+    },
+    {
+        "id": 7,
+        "produto": "Shorts",
+        "descricao": "Shorts Preto",
+        "preco": 90.0,
+        "imagem": "https://decathlonpro.vtexassets.com/arquivos/ids/127250973/17122417550952.jpg?v=638486374188100000"
+    },
+    {
+        "id": 8,
+        "produto": "Chinelo",
+        "descricao": "Chinelo Bege",
+        "preco": 130.0,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNDvtz_eUtRDTA9wHTEkMizuXaS9M6gFzkg&s"
+    },
+    {
+        "id": 9,
+        "produto": "Boné",
+        "descricao": "Boné Branco",
+        "preco": 100.0,
+        "imagem": "https://static.prospin.com.br/media/catalog/product/9/1/913011-100-bone-nike-h86-futura-washed-unis-branco.jpg"
+    },
+    {
+        "id": 10,
+        "produto": "Camiseta",
+        "descricao": "Camiseta Branca",
+        "preco": 110.0,
+        "imagem": "https://sportbras.vtexassets.com/arquivos/ids/1168048/CAMISETA-MASCULINA-NIKE-DRI-FIT-ACADEMY-23-0.jpg?v=638621987333370000"
+    },
+    {
+        "id": 11,
+        "produto": "Shorts",
+        "descricao": "Shorts Branco",
+        "preco": 90.0,
+        "imagem": "https://bayard.vtexassets.com/arquivos/ids/3263542/0822790002-A.jpg?v=638367089336100000"
+    },
+    {
+        "id": 12,
+        "produto": "Chinelo",
+        "descricao": "Chinelo preto",
+        "preco": 130.0,
+        "imagem": "https://acdn-us.mitiendanube.com/stores/001/207/484/products/img_4266-a3fd702ece5ccbea3317102045112649-1024-1024.jpeg"
+    },
+    {}
+]
