@@ -1,9 +1,5 @@
 const uri = './assets/dados.json';
-var produtos = [
-    { produto: 'Boné' },
-    { produto: 'Camiseta' },
-    { produto: 'Shorts' },
-];
+var produtos = [];
 
 //Carrega os dados do Mockup
 fetch(uri)
@@ -15,9 +11,9 @@ function mostrarCards() {
     const main = document.querySelector('main');
     produtos.forEach(p => {
         main.innerHTML += `
-         <div class="card">
-        <h3>${p.produto}</h3>
-            <img src="${p.imagem}" alt="$p.produto}">
+        <div class="card">
+            <h3>${p.produto}</h3>
+            <img src="${p.imagem}" alt="${p.produto}">
             <p>Preco: ${p.preco}</p>
             <button>Detalhes</button>
         </div>
